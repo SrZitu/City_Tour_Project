@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+$mainBlack: #222;
+$mainGreen: #83e377;
+$mainWhite: #faf9f9;
+$mainGrey: #e9ecef;
+$mainTransition: all 0.3s linear;
+body {
+  font-family: "Open Sans", sans-serif;
+  background: $mainWhite;
+  color: $mainBlack;
+}
